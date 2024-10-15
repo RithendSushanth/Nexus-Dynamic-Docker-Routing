@@ -18,7 +18,8 @@
   },
   "dependencies": {
     "dockerode": "^4.0.2",
-    "express": "^4.21.0",
-    "http-proxy": "^1.18.1"
+    "express": "^4.21.1",
+    "http-proxy": "^1.18.1",
+    "mongoose": "^8.7.1"
   }
 }
